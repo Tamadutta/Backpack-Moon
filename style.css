@@ -1,0 +1,45 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+   
+}
+.text{
+    font-size: 100px;
+    font-weight: 900;
+}
+.buy-button{
+   background-color: darkslateblue;
+   color: white;
+   padding: 15px;
+   border: 1px solid darkslateblue;
+   border-radius: 15px;
+}
+.img-style{
+    width: 90%;
+    margin-left: 10%;
+}
+.categories img {
+    width: 100px;
+    height: 100px;
+    margin-right: 5%;
+}
+.text-style h4,p{
+    color: indigo;
+    padding-left: 5px;
+}
+.backpack-card{
+    border: 0;
+}
+.backpack-card-footer {
+    border-top: 0;
+    background-color: white;
+}
+#contact{
+    background-color:rgba(17, 138, 108, 0.66);
+    color: black;
+    padding: 25px ;
+    text-align:center;
+}
+.p-style{
+    color: black;
+    text-align: center;
+}
